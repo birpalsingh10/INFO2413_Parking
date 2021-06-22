@@ -1,0 +1,3 @@
+Introduction
+
+I want to design an app for PLANET FITNESS GYM with a feature of advance booking of gym time slots using a username and password rather than waiting in line outside.  Along with that, I design an advanced crowd meter that tells the exact capacity of people present in the gym that helps the walk-in gym member to know how busy the gym is. 
